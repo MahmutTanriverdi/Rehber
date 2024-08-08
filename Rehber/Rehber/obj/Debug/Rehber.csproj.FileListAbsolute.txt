@@ -1,0 +1,10 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Rehber\Rehber\obj\Debug\Rehber.pdb
